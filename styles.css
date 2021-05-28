@@ -1,3 +1,14 @@
 body {
   color: brown;
 }
+h1 {
+  color: rgb(102, 102, 104);
+}
+
+#lib-header {
+  color: blueviolet;
+}
+
+.para {
+  color: rgb(39, 135, 219);
+}
