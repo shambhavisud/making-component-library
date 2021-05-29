@@ -2,6 +2,9 @@
 body {
   font-family: "Montserrat", sans-serif;
 }
+hr {
+  margin: 2rem 0rem;
+}
 
 :root {
   --primary-color: #7f1d1d;
@@ -37,3 +40,5 @@ body {
   border-radius: 0.5rem;
   border: solid 1px var(--primary-color);
 }
+
+/** lists **/
