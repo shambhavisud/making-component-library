@@ -1,4 +1,16 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Source+Sans+Pro:ital,wght@0,400;1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 body {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Montserrat", sans-serif;
+}
+
+/* container */
+
+.container {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.container-center {
+  max-width: 600px; /* to read without moving the head */
+  margin: auto;
 }
