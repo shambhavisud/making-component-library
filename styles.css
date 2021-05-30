@@ -8,7 +8,8 @@ hr {
 
 :root {
   --primary-color: #7f1d1d;
-  --skin-color: #1f2937;
+  --darkgrey-color: #1f2937;
+  --offwhite-color: #fef3c7; /** #fde68a;**/
 }
 
 /* container */
@@ -86,5 +87,16 @@ hr {
 
 .hero .hero-heading {
   padding-top: 1rem;
-  color: var(--skin-color);
+  color: var(--darkgrey-color);
+}
+
+.section {
+  padding: 2rem;
+}
+.section h1 {
+  text-align: center;
+}
+
+.ow {
+  background-color: var(--offwhite-color);
 }
