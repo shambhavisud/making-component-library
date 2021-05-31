@@ -13,6 +13,10 @@ hr {
   --offwhite-color: #fef3c7; /** #fde68a;**/
 }
 
+/** spaces **/
+.margin-md {
+  margin: 2rem;
+}
 /* container */
 
 .container {
@@ -78,6 +82,7 @@ hr {
 
 .hero {
   padding: 2rem;
+  padding-top: 5rem;
 }
 
 .hero .hero-img {
@@ -110,7 +115,10 @@ hr {
   color: beige;
   border-top-right-radius: 1rem;
 }
-
+.footer .footer-header {
+  font-weight: bold;
+  font-size: large;
+}
 .footer .link {
   color: beige;
 }
